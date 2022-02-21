@@ -15,6 +15,7 @@ public class datoslibro {
     private String isbn;
     private int pages;
     private String atrib1;
+    private String atrib2;
 
     public datoslibro() {
     }
